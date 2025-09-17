@@ -1,2 +1,3 @@
 # DMDV
-repository for Database management
+This is my first repository,
+I look forward to learn more.
